@@ -1,0 +1,9 @@
+
+server:
+  port: 8081
+spring:
+  datasource:
+    url: jdbc:oracle:thin:@//10.191.209.174:1522/CUDG
+    username: CUDGADM
+    password: Telcel01#
+    driver-class-name: oracle.jdbc.driver.OracleDriver
